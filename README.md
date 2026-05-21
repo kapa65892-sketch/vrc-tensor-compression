@@ -144,5 +144,5 @@ License
 MIT License — free to use in commercial and open-source projects.
 Contact
 Author: Igor Kapustin
-Email: igor@phoenix-regeneration.com
+
 GitHub: github.com/kapa65892-sketch
